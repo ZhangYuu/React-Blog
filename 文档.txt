@@ -1,9 +1,0 @@
-http://adam.younglogic.com/2013/09/keystone-v3-api-examples/
-
-http://tsingwang.github.io/2013/11/07/read-openstack-keystone-code.html
-
-http://www.it610.com/article/3527523.htm
-
-这个最重要：https://my.oschina.net/zhailibao2010/blog/602711
-
-https://developer.openstack.org/api-ref/identity/v3/?expanded=check-token-detail,password-authentication-with-unscoped-authorization-detail
